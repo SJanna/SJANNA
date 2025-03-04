@@ -6,8 +6,6 @@
 
 💼 Active collaborator in university, work and personal projects, always looking for efficient and creative solutions. My focus is on the automation and optimization of processes to make repetitive tasks more efficient, allowing efforts to focus on what is truly crucial. 
 
-🏥 My vision for the future is to contribute to the improvement of the health system in my country. Currently, I find myself exploring standards such as HL7 FHIR, promoting interoperability to raise the quality of health care. I am looking for opportunities to apply my technical skills and my passion for innovation in projects that generate a positive impact on society. 
-
 I am excited to connect with professionals in the sector and collaborate on projects that make a difference! 🔗
 </p>
 <h3 align="left">Connect with me:</h3>
